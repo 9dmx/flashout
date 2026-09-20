@@ -2,8 +2,8 @@
 
 Set your phone's location anywhere in the world — or make it follow a real road route. Works with iPhone and Android over USB or Wi-Fi.
 
-![Flashout in dark mode](<img width="1556" height="1147" alt="image" src="https://github.com/user-attachments/assets/e476e1e1-fa71-44d1-8688-57b9c7242506" />
-)
+<img width="1556" height="1147" alt="image" src="https://github.com/user-attachments/assets/67afdbf6-0c85-4ca6-9b00-73a86660623e" />
+
 <img width="1179" height="2556" alt="image" src="https://github.com/user-attachments/assets/0872981c-b5bd-4937-b188-9c7fa696ab15" />
 
 ## Download
