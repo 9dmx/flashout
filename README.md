@@ -45,18 +45,7 @@ Then: drop a pin → **Set location**. Press **Restore real location** before un
 - Unlock the iPhone with its passcode (screen on) before Prepare/Set — iOS refuses commands from a locked phone.
 - Some apps detect or cache mock locations; that's on their side, not a bug here.
 
-## Verify the download
-
-SHA-256 of `Flashout-1.0.0-win-x64.exe`:
 
 ```
-58395e0d2a0d67b4fb9e7ffc2b5e496953ec30433939d0bef6ea32d8deb4d1f3
-```
 
-Check it in PowerShell:
-
-```powershell
-Get-FileHash .\Flashout-1.0.0-win-x64.exe -Algorithm SHA256
-```
-
-Made with love by flash · Free and open source
+Made with love by flash · 
